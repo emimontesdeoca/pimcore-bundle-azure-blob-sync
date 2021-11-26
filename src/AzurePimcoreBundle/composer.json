@@ -1,5 +1,5 @@
 {
-    "name": "rohit/azure-pimcore-bundle",
+    "name": "emimontesdeoca/azure-pimcore-bundle",
     "description": "This bundle use to sync all records Assets from Pimcore to Azure Blob Storage",
     "type": "composer-plugin",
     "require": {
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rohit Raj Verma",
-            "email": "rohitrajv5@gmail.com"
+            "name": "Emiliano Montesdeoca",
+            "email": "emimontesdeoca@outlook.com"
         }
     ],
     "minimum-stability": "dev"

@@ -1,6 +1,0 @@
-get_azure:
-    path: /admin/settings/get-azure
-    defaults: { _controller: AzurePimcoreBundle:AzureSetting:getAzure}
-set_azure:
-    path: /admin/settings/set-azure
-    defaults: { _controller: AzurePimcoreBundle:AzureSetting:setAzure}

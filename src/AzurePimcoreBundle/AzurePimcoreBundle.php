@@ -30,12 +30,12 @@ class AzurePimcoreBundle extends AbstractPimcoreBundle {
 
     public function getDescription()
     {
-        return 'Pushes Pimcore assets to Microsoft Azure Blob Storage';
+        return 'This bundle use to sync all records Assets from Pimcore to Azure Blob Storage';
     }
 
     public function getVersion()
     {
-        return 'v1.4';
+        return '1.0.0';
     }
     
     public function getInstaller() {

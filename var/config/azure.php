@@ -1,9 +1,9 @@
 <?php 
 
 return [
-    "accountUrl" => "https://pcdevstorage.blob.core.windows.net",
-    "accountName" => "pcdevstorage",
-    "accountKey" => "********************************",
-    "container" => "***********************",
+    "accountUrl" => "",
+    "accountName" => "",
+    "accountKey" => "*",
+    "container" => "",
     "enableAzure" => FALSE
 ];
